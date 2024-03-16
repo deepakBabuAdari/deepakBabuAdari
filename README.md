@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @deepakBabuAdari
+- 👋 Hi, I’m Deepak,
 - 👀 I’m interested in  Data Analytics
-- 🌱 I’m currently learning Google Data Analytics 
+- 🌱 I’m currently Working as Software Engineer in HCLTech Company. and I am passionate about exploring in Data related Fields.
 - 💞️ I’m looking to collaborate on Data Analysis , Data visulization and creating insights and reports.
 - 📫 You can reach me at deepskbabuadari@gmail.com
 
