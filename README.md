@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak,
-- 👀 I’m interested in  Data Analytics
-- 🌱 I’m currently working as a Software Engineer at HCLTech Company. and I am passionate about exploring in Data related Fields.
-- 💞️ I’m looking to collaborate on Data Analysis , Data visulization and creating insights and reports.
+- 👀 I’m interested in Automation, front end devlopment
+- 🌱 I’m currently working as a Software Engineer at HCLTech Company. and I am passionate about exploring in It field.
+- 💞️ I’m looking to collaborate on front end development and solving real time problems
 - 📫 You can reach me at deepskbabuadari@gmail.com
 
 <!---
